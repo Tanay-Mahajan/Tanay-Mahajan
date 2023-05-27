@@ -19,10 +19,13 @@ body {
     background-position: 0% 50%;
   }
 }
-#hero {
+/* #hero {
   width: auto;
   height: 70vh;
-}
+  padding: 0px;
+  margin: 0px;
+} */
+
 .about {
   padding-top: 30px;
 }
@@ -91,7 +94,6 @@ a{
 .skills .progress-bar {
   width: 1px;
   height: 10px;
-  transition: 0.9s;
   background-color: #149ddd;
 }
 
